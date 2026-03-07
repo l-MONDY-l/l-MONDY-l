@@ -147,6 +147,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ushan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/ushan" /></a></p><br><br>
 
+###
 
 <div align="center" style="width: 100%">
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
@@ -162,6 +163,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ushan/ushan/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/l-MONDY-l/l-MONDY-l/output/snake.svg" alt="Snake animation" />
 
 ###
