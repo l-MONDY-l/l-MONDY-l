@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ushan Perera</h1>
-<h3 align="center">Linux Systems Administrator | Bare Metal | Networking | Bash Automation | Production Support |</h3>
+<h3 align="center">Linux Systems Administrator | Red Hat Enterprise Linux (RHEL) | Bare Metal Infrastructure | Networking | Bash Automation | ISO 27001 Security | Production Systems</h3>
 
 ## 🕹️ Contribution Activity
 
