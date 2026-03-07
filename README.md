@@ -44,6 +44,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ushan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/ushan" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=l-mondy-l&show_icons=true&locale=en&layout=compact" alt="l-mondy-l" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=l-mondy-l&" alt="l-mondy-l" /></p>
