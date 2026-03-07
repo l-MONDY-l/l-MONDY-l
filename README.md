@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **malinthaushan444@gmail.com**
 
-- 📄 Know about my experiences [Senior System Administrator with experience managing Linux production systems, networking infrastructure, and automation scripting.](Senior System Administrator with experience managing Linux production systems, networking infrastructure, and automation scripting.)
+- 📄 Know about my experiences as a Senior System Administrator with experience managing Linux production systems, networking infrastructure, and automation scripting.
 
 - ⚡ Fun fact **I enjoy building practical Linux tools that solve real infrastructure problems.**
 
@@ -26,21 +26,6 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ushan-perera-564015120" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ushan-perera-564015120" height="30" width="40" /></a>
-<a href="https://fb.com/lmondyl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lmondyl" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@mr-baremetal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@mr-baremetal" height="30" width="40" /></a>
-</p>
-
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-</div>
-
-###
 
 
 <div align="left">
@@ -57,6 +42,7 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
 
 
 <h3 align="left">Languages and Tools:</h3>
