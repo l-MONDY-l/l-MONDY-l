@@ -147,7 +147,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ushan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/ushan" /></a></p><br><br>
 
-### Contributions
+## 🕹 Contribution Activity
 
 ![Snake animation](https://raw.githubusercontent.com/l-MONDY-l/l-MONDY-l/output/snake.svg)
 
