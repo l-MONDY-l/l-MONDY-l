@@ -22,7 +22,7 @@
 
 - ⚡ Fun fact **I enjoy building practical Linux tools that solve real infrastructure problems.**
 
-### Blogs posts
+### Connect With Me
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
