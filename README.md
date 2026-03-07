@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=l-mondy-l&label=Profile%20views&color=0e75b6&style=flat" alt="l-mondy-l" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ushan.per3ra" target="blank"><img src="https://img.shields.io/twitter/follow/ushan.per3ra?logo=twitter&style=for-the-badge" alt="ushan.per3ra" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ushan.per3ra" target="blank"><img src="https://www.instagram.com/ushan.per3ra/?hl=en?logo=twitter&style=for-the-badge" alt="ushan.per3ra" /></a> </p>
 
 - 🔭 I’m currently working on **Linux server automation scripts and infrastructure monitoring tools**
 
