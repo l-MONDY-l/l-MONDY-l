@@ -1,5 +1,3 @@
-## Hi there 👋
-    
 <h1 align="center">Hi 👋, I'm Ushan Perera</h1>
 <h3 align="center">Linux Systems Administrator | Bare Metal | Networking | Bash Automation | Production Support |</h3>
 
