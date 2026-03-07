@@ -37,23 +37,23 @@
 
 <div align="left">
 
-<a href="https://youtube.com/@yourchannel">
+<a href="https://www.youtube.com/@mr-baremetal">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="35"/>
 </a>
 
-<a href="https://instagram.com/yourusername">
+<a href="https://www.instagram.com/ushan.per3ra/?hl=en">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35"/>
 </a>
 
-<a href="https://discord.gg/yourserver">
+<a href="https://discord.gg/7zkqzXka">
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="35"/>
 </a>
 
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:malinthaushan444@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
 </a>
 
-<a href="https://linkedin.com/in/yourprofile">
+<a href="https://www.linkedin.com/in/ushan-perera-564015120/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
 </a>
 
