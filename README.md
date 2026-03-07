@@ -12,11 +12,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=l-mondy-l&label=Profile%20views&color=0e75b6&style=flat" alt="l-mondy-l" /> </p>
 
 
-- 🔭 I’m currently working on **Linux server automation scripts and infrastructure monitoring tools**
+- 🔭 I’m currently working on Linux infrastructure automation, production monitoring systems, and operational tooling for real-world environments**
 
-- 🌱 I’m currently learning **Docker, Kubernetes, Infrastructure as Code, and advanced Linux security hardening**
+- 🌱 I’m exploring container platforms, infrastructure as code, system reliability practices, and advanced Linux security hardening**
 
-- 👯 I’m looking to collaborate on **Open-source Linux administration tools and DevOps automation projects**
+- 👯 I’m open to collaborating on open-source infrastructure tools, Linux platform engineering projects, and automation for modern operations teams**
 
 - 👨‍💻 All of my projects are available at [https://github.com/I-MONDY-I](https://github.com/I-MONDY-I)
 
