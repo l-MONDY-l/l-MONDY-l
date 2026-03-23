@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ushan Perera</h1>
-<h3 align="center">Linux Infrastructure & Reliability Engineer | Bare Metal & Cloud Infrastructure (GCP / Azure) | RHEL Platforms | Networking | Automation | Secure Production Systems</h3>
+<h3 align="center">Software Architect | Full Stack Developer | Enterprise Solutions Architect | Cloud & On-Prem Infrastructure | Networking | Automation | Secure Production Systems</h3>
 
 ## 🕹️ Contribution Activity
 
@@ -11,24 +11,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=l-mondy-l&label=Profile%20views&color=0e75b6&style=flat" alt="l-mondy-l" /> </p>
 
-
-- 🔭 Building automation tools, monitoring stacks, and operational workflows for Linux production infrastructure**
-
-- 🌱 Exploring container orchestration, infrastructure as code, observability, and advanced Linux security practices**
-
-- 👯 Interested in collaborating on open-source infrastructure tooling, platform engineering, and DevOps automation projects**
-
-- 👨‍💻 All of my projects are available at [https://github.com/I-MONDY-I](https://github.com/I-MONDY-I)
-
-- 📝 I regularly write articles on [https://ushan.space/blogs](https://ushan.space/blogs)
-
-- 💬 Ask me about **Linux servers, networking troubleshooting, bash scripting, and production infrastructure**
-
-- 📫 How to reach me **malinthaushan444@gmail.com**
-
-- 📄 Know about my experiences as a Senior System Administrator with experience managing Linux production systems, networking infrastructure, and automation scripting.
-
-- ⚡ Fun fact **I enjoy building practical Linux tools that solve real infrastructure problems.**
+- 🔭 Designing and building enterprise-grade software architectures, full stack applications, and scalable infrastructure solutions  
+- 🌱 Exploring container orchestration, microservices, cloud-native architectures, observability, and advanced enterprise security practices  
+- 👯 Interested in collaborating on open-source tooling, platform engineering, and enterprise solutions projects  
+- 👨‍💻 All of my projects are available at [https://github.com/I-MONDY-I](https://github.com/I-MONDY-I)  
+- 📝 I regularly write articles on [https://ushan.space/blogs](https://ushan.space/blogs)  
+- 💬 Ask me about **full stack development, software architecture, enterprise solutions, cloud & on-prem systems, and DevOps automation**  
+- 📫 How to reach me: **malinthaushan444@gmail.com**  
+- 📄 My experience spans software architecture, full stack development, enterprise solutions, cloud & on-prem infrastructure, and automation  
+- ⚡ Fun fact: **I enjoy building practical software and infrastructure solutions that solve real-world enterprise problems.**
 
 ### Connect With Me
 <!-- BLOG-POST-LIST:START -->
